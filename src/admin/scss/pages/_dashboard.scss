@@ -1,0 +1,41 @@
+.toplevel_page_mbwp_banners {
+    .wrap {
+        h1 {
+            color: #0085BA;
+            text-align: center;
+            font-weight: 700;
+        }
+    }
+    .small-text {
+        width: 75px !important;
+    }
+    .cache-wrapper {
+        display: inline-flex;
+        .ui-toggle,
+        .text-wrapper {
+            display: inline-block;
+        }
+        .text-wrapper {
+            cursor: default;
+            line-height: 22px;
+            margin: 0 .5em;
+            font-weight: bold;
+        }
+    }
+    .radio-wrapper {
+        display: flex;
+        .radio-wrap {
+            margin: .5em;
+            font-weight: 500;
+        }
+    }
+    .color-field-wrapper {
+        .wp-color-result-text {
+            color: #ababab;
+            font-weight: 700;
+        }
+    }
+    .iframe-size-wrapper {
+        margin-top: .5em;
+    }
+}
