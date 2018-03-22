@@ -28,7 +28,7 @@ var browserSync = require('browser-sync').create();
 var reload = browserSync.reload;
 
 // Project related variables
-var projectURL = 'http://localhost/plugin-dev/';
+var projectURL = 'http://localhost/plugin/';
 
 var styleName = "style";
 var scriptName = "script";
