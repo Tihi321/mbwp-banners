@@ -1,11 +1,11 @@
 {
-	"name": "alecaddd-plugin",
+	"name": "mbwp-plugin",
 	"version": "1.0.0",
-	"description": "Awesome starter plugin example",
-	"author": "Alessandro Castellani <me@alecaddd.com> (http://alecaddd.com)",
+	"description": "Wordpress Plugin creates 3 extra places for ads, one on top of the website and two on each side.",
+	"author": "Tihomir Selak (https://motionbunmp.com)",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Alecaddd/WordPressPlugin101"
+		"url": "https://github.com/Tihi321/mbwp-banners"
 	},
 	"keywords": [
 		"wordpress",

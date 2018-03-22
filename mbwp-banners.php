@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: MBWP Banners
-Plugin URI: http://alecaddd.com/plugin
+Plugin URI: https://github.com/Tihi321/mbwp-banners
 Description: This plugin implements 3 extra ad locations around website, with option to show different ads on each refresh.
 Version: 1.0.0
 Author: Tihomir Selak
